@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-    <img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/images/logo-image.png" alt="image"></img>
+    <img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/images/logo-image.png"></img>
 </div>
 
 # Sharing Aquatic Knowledge
@@ -57,5 +57,28 @@ To help this site stand out from the other How-To-Guides and Aquarium keeping pa
 "As a visitor I want to ensure I feel confident that the information that the website is providing is correct and has come from a reliable source, to ensure that I am satisfied with the support at hand when completing my tank set-up"
 
 "As a visitor I want to be able to easily find contact information so I can discuss any questions or problems that may occur in the process of setting up my tank"
+
+---
+
+## Wireframe Mockups:
+
+During the design process sitting with the client we drew up wireframes using [Balsamiq](https://balsamiq.com/). During the development, minor adjustments were made to allow the page to flow better for the user.
+
+### Desktop
+<div style="text-align:center;">
+<img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-desktop.png"></img><br>
+</div>
+
+### Tablet
+
+<div style="text-align:center;">
+<img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-tablet.png"></img><br>
+</div>
+
+### Mobile
+
+<div style="text-align:center;">
+<img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-mobile.png"></img>
+</div>
 
 ---
