@@ -64,21 +64,10 @@ To help this site stand out from the other How-To-Guides and Aquarium keeping pa
 
 During the design process sitting with the client we drew up wireframes using [Balsamiq](https://balsamiq.com/). During the development, minor adjustments were made to allow the page to flow better for the user.
 
-### Desktop
-<div style="text-align:center;">
-<img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-desktop.png"></img><br>
-</div>
+[Desktop Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-desktop.png)
 
-### Tablet
+[Tablet Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-tablet.png)
 
-<div style="text-align:center;">
-<img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-tablet.png"></img><br>
-</div>
-
-### Mobile
-
-<div style="text-align:center;">
-<img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-mobile.png"></img>
-</div>
+[Mobile Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-mobile.png)
 
 ---
