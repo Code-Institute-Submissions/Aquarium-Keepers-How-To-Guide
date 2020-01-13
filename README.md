@@ -49,3 +49,13 @@ To help this site stand out from the other How-To-Guides and Aquarium keeping pa
 * Allows the user to ask questions and get a response from a seasoned Aquarium Keeper.
 
 ---
+
+## User stories
+
+"As a visitor to the site I want to be met with clear and consise information that allows me to both understand and learn what the website is telling me so that I can complete my set-up in an efficient and effective manner"
+
+"As a visitor I want to ensure I feel confident that the information that the website is providing is correct and has come from a reliable source, to ensure that I am satisfied with the support at hand when completing my tank set-up"
+
+"As a visitor I want to be able to easily find contact information so I can discuss any questions or problems that may occur in the process of setting up my tank"
+
+---
