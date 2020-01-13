@@ -30,3 +30,22 @@ As a business, they have provided me with the following goals for the site.
 2. A colour pallet to reflect the hobby.
 3. A form to pass any questions the consumer may have to my client for him to answer in his own time.
 4. Clear and interactive, allowing the user to learn.
+
+---
+
+## UX
+
+As the website is a completely new project and not a redesign, the building of a consumer base will be reliant on google result and obtained through word of mouth.
+The main aim is to draw new consumers that meet the below criteria 
+
+1. Are in the Aquarium keeping hobby or have an interest.
+2. Have recently purchased a tank or planning on purchasing a tank.
+3. Wish to educate themselves and expand their knowledge.
+
+To help this site stand out from the other How-To-Guides and Aquarium keeping pages, it needs to ensure it
+
+* Is easy to navigate and  to understand the structure of the site.
+* Provides clear and consise information.
+* Allows the user to ask questions and get a response from a seasoned Aquarium Keeper.
+
+---
