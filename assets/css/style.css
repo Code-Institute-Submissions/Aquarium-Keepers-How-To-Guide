@@ -5,7 +5,7 @@ body {
 /* Colors */
 
 .bg-color-navigation{
-    background-color: #12265a;
+    background-color: #0047ff;
 }
 
 /* Navbar */
@@ -22,15 +22,25 @@ body {
     width: 9em;
 }
 
-.navbar .navbar-toggler{
-    border: 0;
-}
-
 .navbar-brand{
     font-weight: bold;
-    left: 0;
+    margin-left: 1%;
+}
+
+.navbar-dark .navbar-brand{
+    color: #00cdff;
+}
+
+.navbar .navbar-toggler{
+    border: 0;
 }
 
 .navbar-nav{
     right: 0;
 }
+
+.navbar-text{
+    text-align: center;
+}
+
+
