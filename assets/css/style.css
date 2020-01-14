@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Colors */
+
+.bg-color-navigation{
+    background-color: #12265a;
+}
+
+/* Navbar */
+
+.navbar{
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.logo-img{
+    height: 4.5em;
+    width: 9em;
+}
+
+.navbar .navbar-toggler{
+    border: 0;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    left: 0;
+}
+
+.navbar-nav{
+    right: 0;
+}
