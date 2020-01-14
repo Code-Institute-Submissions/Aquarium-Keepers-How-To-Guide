@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-    <img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/images/logo-image.png"></img>
+    <img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/assets/images/logo-image.png"></img>
 </div>
 
 # Sharing Aquatic Knowledge
@@ -64,10 +64,11 @@ To help this site stand out from the other How-To-Guides and Aquarium keeping pa
 
 During the design process sitting with the client we drew up wireframes using [Balsamiq](https://balsamiq.com/). During the development, minor adjustments were made to allow the page to flow better for the user.
 
-[Desktop Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-desktop.png)
+[Desktop Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/assets/wireframes/aquarium-keepers-desktop.png)
 
-[Tablet Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-tablet.png)
+[Tablet Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/assets/wireframes/aquarium-keepers-tablet.png)
 
-[Mobile Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/wireframes/aquarium-keepers-mobile.png)
+[Mobile Wireframe](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/assets/wireframes/aquarium-keepers-mobile.png)
 
 ---
+
