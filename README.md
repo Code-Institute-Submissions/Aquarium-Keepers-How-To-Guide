@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-    <img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/assets/images/logo-image.png"></img>
+    <img src="https://github.com/hazza579/Aquarium-Keepers-How-To-Guide/blob/master/assets/images/logo-image.jpg"></img>
 </div>
 
 # Sharing Aquatic Knowledge
