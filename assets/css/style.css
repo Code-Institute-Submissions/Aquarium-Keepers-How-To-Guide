@@ -27,7 +27,7 @@ body {
     margin-left: 1%;
 }
 
-.navbar-dark .navbar-brand{
+.navbar-brand{
     color: #00cdff;
 }
 
@@ -42,5 +42,3 @@ body {
 .navbar-text{
     text-align: center;
 }
-
-
