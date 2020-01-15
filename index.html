@@ -12,28 +12,33 @@
 </head>
 
 <body>
-    <header class="bg-color-navigation">    
-        <nav class="navbar navbar-dark navbar-expand-lg">
-            <img class="logo-img" src="assets/images/logo-image.jpg" alt="Logo Image">
-            <h1 class="navbar-brand my-auto">Aquarium <br> Keepers</h1>
-
-            <div class="d-none d-md-block">
-                <h1 class="navbar-text my-auto mr-2">Setting up your tank</h1>
+    <header class="container-fluid no-gutters bg-color-navigation"> 
+        <div class="row">
+            <div class="col-4">
+                <img class="logo-img" src="assets/images/logo-image.jpg" alt="Logo Image">
+                <h1 class="navbar-brand">Aquarium <br> Keepers</h1>
             </div>
-
-            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span></button>
-
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item mr-2"><a class="nav-link" href="#setup">Setup</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" href="#decoration">Decoration</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" href="#accessories">Accessories</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" href="#cycling">Cycling</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" href="#tank-examples">Tank Examples</a></li>
-                </ul>
+            <div class="col-4">
+                <div class="d-none d-md-block">
+                        <h1 class="navbar-text my-auto">Setting up your tank</h1>
+                </div>
             </div>
-        </nav>
+            <div class="col-4">
+                <nav class="navbar navbar-dark navbar-expand-lg">
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item mr-2"><a class="nav-link" href="#setup">Setup</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="#decoration">Decoration</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="#accessories">Accessories</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="#cycling">Cycling</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="#tank-examples">Tank Examples</a></li>
+                        </ul>
+                    </div>
+                    <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span></button>
+                </nav>
+            </div>
+        </div>
     </header>                
 </body>
 </html>
