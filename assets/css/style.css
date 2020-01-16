@@ -29,10 +29,8 @@ body {
     font-weight: bold;
     text-align: center;
     color: #00cdff;
-    font-size: 30px;
     padding: 0;
-    margin: 3.5% 0;
-
+    line-height: 1;
 }
 
 .navbar .navbar-toggler{
@@ -55,6 +53,70 @@ body {
 
 /* Media Queiries */
 
+@media screen and (min-width: 1200px){
+    .navbar-brand{
+    font-size: 38px;
+    margin: 12.5% 0;
+
+}
+}
+
+@media screen and (max-width: 1200px){
+    .navbar-brand{
+    font-size: 38px;
+    margin: 10% 0;
+
+}
+}
+
+@media screen and (max-width: 992px){
+    .navbar-brand{
+    font-size: 36px;
+    margin: 12% 0;
+
+}
+}
+
+@media screen and (max-width: 768px){
+    .navbar-brand{
+    font-size: 29px;
+    margin: 21% 0;
+
+}
+}
+
+@media screen and (max-width: 425px){
+    .navbar-brand{
+    font-size: 28px;
+    margin: 14% 0;
+
+}
+}
+
+@media screen and (max-width: 375px){
+    .navbar-brand{
+    font-size: 26px;
+    margin: 14% 0;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .navbar-brand{
+    font-size: 24px;
+    margin: 12.5% 0;
+
+}
+}
+
+
+/* @media screen and (min-width: 425px){
+    .navbar-brand{
+    font-size: 30px;
+    margin: 3.5% 0;
+
+}
+}
+
 @media screen and (min-width: 768px){
     .navbar-brand{
     font-size: 29px;
@@ -68,3 +130,4 @@ body {
 
 @media screen and (min-width: 1200px){
 }
+*/
