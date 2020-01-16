@@ -25,12 +25,14 @@ body {
 }
 
 .navbar-brand{
+    display: block;
     font-weight: bold;
-    margin-left: 1%;
-}
-
-.navbar-brand{
+    text-align: center;
     color: #00cdff;
+    font-size: 30px;
+    padding: 0;
+    margin: 3.5% 0;
+
 }
 
 .navbar .navbar-toggler{
@@ -49,4 +51,20 @@ body {
 
 .nopadding{
     padding: 0 !important;
+}
+
+/* Media Queiries */
+
+@media screen and (min-width: 768px){
+    .navbar-brand{
+    font-size: 29px;
+    margin: 10% 0;
+
+}
+}
+
+@media screen and (min-width: 992px){
+}
+
+@media screen and (min-width: 1200px){
 }
