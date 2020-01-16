@@ -14,7 +14,8 @@ body {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 14px;
 }
 
 .logo-img{
@@ -48,6 +49,10 @@ body {
     font-weight: bold;
     padding: 0;
     text-decoration: underline;
+}
+
+nav div ul li{
+    border: 1px solid #fe9900;
 }
 
 /* Bootstrap override */
@@ -106,7 +111,7 @@ body {
 
     .navbar-text{
     font-size: 26px;
-    margin-top: 15%;
+    margin-top: 10%;
     }
 }
 
