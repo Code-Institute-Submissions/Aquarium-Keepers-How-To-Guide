@@ -8,10 +8,14 @@ body {
     background-color: #173058;
 }
 
+/* Header */ 
+
+header{
+    width: 100%;
+}
 /* Navbar */
 
 .navbar{
-    margin-bottom: 0;
     border: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0);
@@ -41,7 +45,9 @@ body {
 }
 
 .navbar-nav{
-    right: 0;
+    margin-right: 2%;
+    margin-left: auto;
+    font-size: 1rem;
 }
 
 .navbar-text{
@@ -54,7 +60,10 @@ body {
 }
 
 nav div ul li{
-    border: 1px solid #fe9900;
+    background: #1c3a6a;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-collapse: collapse;
 }
 
 /* Bootstrap override */
@@ -82,18 +91,25 @@ nav div ul li{
 }
 
 @media screen and (max-width: 1200px){
+    .navbar{
+        margin-top: 5%;
+    }
     .navbar-brand{
     font-size: 38px;
-    margin: 8% 0;
+    margin: 5% 0;
     }
 
     .navbar-text{
     font-size: 34px;
-    margin-top: 4%;
+    margin-top: 2%;
     }
 }
 
 @media screen and (max-width: 992px){
+    .navbar{
+        margin-top: 4%;     
+    }
+
     .navbar-brand{
     font-size: 36px;
     margin: 5% 0;
@@ -106,6 +122,10 @@ nav div ul li{
 }
 
 @media screen and (max-width: 768px){
+    .navbar{
+        margin-top: 0;     
+    }
+
     .navbar-brand{
     font-size: 29px;
     margin: 18% 0;
@@ -115,12 +135,32 @@ nav div ul li{
     font-size: 26px;
     margin-top: 10%;
     }
+
+    .navbar .navbar-toggler{
+    border: 0;
+    margin: 9% auto;
+    }
+
+    .navbar .navbar-toggler .navbar-toggler-icon{
+    height: 60px;
+    width: 60px;
+    }
 }
 
 @media screen and (max-width: 425px){
     .navbar-brand{
     font-size: 28px;
     margin: 14% 0;
+    }
+
+    .navbar .navbar-toggler{
+    border: 0;
+    margin: 13% auto;
+    }
+
+    .navbar .navbar-toggler .navbar-toggler-icon{
+    height: 60px;
+    width: 60px;
     }
 }
 
@@ -129,6 +169,16 @@ nav div ul li{
     font-size: 26px;
     margin: 13% 0;
     }
+
+    .navbar .navbar-toggler{
+    border: 0;
+    margin: 14% auto;
+    }
+
+    .navbar .navbar-toggler .navbar-toggler-icon{
+    height: 50px;
+    width: 50px;
+    }
 }
 
 @media screen and (max-width: 320px){
@@ -136,4 +186,14 @@ nav div ul li{
     font-size: 24px;
     margin: 11.5% 0;
     }
+
+    .navbar .navbar-toggler{
+    border: 0;
+    margin: 15% auto;
+    }
+
+    .navbar .navbar-toggler .navbar-toggler-icon{
+    height: 40px;
+    width: 40px;
+}
 }
