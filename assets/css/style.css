@@ -19,10 +19,11 @@ body {
 }
 
 .logo-img{
-    height: 80%;
+    height: auto;
     width: 80%;
+    margin: 2% 0;
     margin-left: 10%;
-    margin-top: 6%
+    
 }
 
 .navbar-brand{
@@ -83,31 +84,31 @@ nav div ul li{
 @media screen and (max-width: 1200px){
     .navbar-brand{
     font-size: 38px;
-    margin: 10% 0;
+    margin: 8% 0;
     }
 
     .navbar-text{
     font-size: 34px;
-    margin-top: 7%;
+    margin-top: 4%;
     }
 }
 
 @media screen and (max-width: 992px){
     .navbar-brand{
     font-size: 36px;
-    margin: 12% 0;
+    margin: 5% 0;
     }
 
     .navbar-text{
     font-size: 30px;
-    margin-top: 10%;
+    margin-top: 3%;
     }
 }
 
 @media screen and (max-width: 768px){
     .navbar-brand{
     font-size: 29px;
-    margin: 21% 0;
+    margin: 18% 0;
     }
 
     .navbar-text{
@@ -126,13 +127,13 @@ nav div ul li{
 @media screen and (max-width: 375px){
     .navbar-brand{
     font-size: 26px;
-    margin: 14% 0;
+    margin: 13% 0;
     }
 }
 
 @media screen and (max-width: 320px){
     .navbar-brand{
     font-size: 24px;
-    margin: 12.5% 0;
+    margin: 11.5% 0;
     }
 }
