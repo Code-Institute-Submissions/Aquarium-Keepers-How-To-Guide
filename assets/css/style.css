@@ -13,7 +13,6 @@ body {
 header{
     width: 100%;
 }
-/* Navbar */
 
 .navbar{
     border: 0;
@@ -63,8 +62,8 @@ header{
 
 nav div ul li{
     background: #1c3a6a;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
+    border-left: 1px solid #173058;
+    border-right: 1px solid #173058;
     border-collapse: collapse;
 }
 
@@ -79,8 +78,21 @@ nav div ul li{
 }
 
 /* Media Queiries */
+@media screen and (min-width:992px){
+    .navbar-nav{
+        margin-right: 5px;
+    }
+}
 
 @media screen and (min-width: 1200px){
+    .navbar{
+        margin-top: 5%;
+    }
+
+    .navbar-nav{
+        font-size: 1.5rem;
+    }
+
     .navbar-brand{
     font-size: 38px;
     margin: 12.5% 0;
@@ -213,4 +225,10 @@ nav div ul li{
     height: 40px;
     width: 40px;
 }
+}
+
+/* Hover.css */
+
+.hvr-sweep-to-bottom:before{
+    background: #173058;
 }
