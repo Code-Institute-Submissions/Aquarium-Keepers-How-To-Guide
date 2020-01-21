@@ -99,7 +99,6 @@ nav div ul li{
 #cover-text h2 {
     text-align: center;
     color: #fe9900;
-
 }
 
 #cover-text {
@@ -152,6 +151,19 @@ nav div ul li{
         height: 850px;
     }
 
+    #cover-text{
+        font-size: 44px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 400px;
+        bottom: 225px;
+        right: 25%;
+    }
+
+    #cover-text h2 {
+        font-size: 2em;
+    }
+
 }
 @media screen and (max-width: 1200px){
     .navbar{
@@ -172,8 +184,17 @@ nav div ul li{
     }
 
     .hero-img{
-    height: 600px;
+        height: 600px;
+    }
 
+    #cover-text{
+        font-size: 32px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 330px;
+        bottom: 135px;
+        right: 25%;
+    }
 }
 
 @media screen and (max-width: 992px){
@@ -199,6 +220,14 @@ nav div ul li{
         height: 500px;
     }
 
+    #cover-text{
+        font-size: 28px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 250px;
+        bottom: 125px;
+        right: 25%;
+    }
 }
 
 @media screen and (max-width: 768px){
@@ -233,6 +262,14 @@ nav div ul li{
         height: 400px;
     }
 
+    #cover-text{
+        font-size: 22px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 200px;
+        bottom: 100px;
+        right: 25%;
+    }
 }
 
 @media screen and (max-width: 425px){
@@ -268,7 +305,9 @@ nav div ul li{
         right: 25%;
     }
 
-
+    #cover-text h2 {
+        font-size: 2rem;
+    }
 }
 
 @media screen and (max-width: 375px){
@@ -303,7 +342,6 @@ nav div ul li{
         bottom: 25px;
         right: 25%;
     }
-
 }
 
 @media screen and (max-width: 320px){
