@@ -74,8 +74,8 @@ nav div ul li{
     padding: 0 !important;
 }
 
-.padding-left{
-    padding-left: 15px;
+.no-margin{
+    margin: 0 !important;
 }
 
 .overflow-hide{
@@ -93,6 +93,20 @@ nav div ul li{
     animation-name: hero-zoom;
     animation-duration: 10s;
     animation-fill-mode: forwards;
+}
+
+#cover-text,
+#cover-text h2 {
+    text-align: center;
+    color: #fe9900;
+
+}
+
+#cover-text {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    background-color: rgba(28, 58, 106, .5);
+    position: absolute;
 }
 
 @keyframes hero-zoom {
@@ -245,6 +259,16 @@ nav div ul li{
         height: 200px;
     }
 
+    #cover-text{
+        font-size: 12px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 140px;
+        bottom: 25px;
+        right: 25%;
+    }
+
+
 }
 
 @media screen and (max-width: 375px){
@@ -269,6 +293,15 @@ nav div ul li{
 
     .hero-img{
         height: 175px;
+    }
+
+    #cover-text{
+        font-size: 10px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 120px;
+        bottom: 25px;
+        right: 25%;
     }
 
 }
@@ -299,6 +332,15 @@ nav div ul li{
 
     .hero-img{
         height: 150px;
+    }
+
+    #cover-text{
+        font-size: 8px;
+        letter-spacing: 2px;
+        width: 50%;
+        height: 100px;
+        bottom: 25px;
+        right: 25%;
     }
 }
 
