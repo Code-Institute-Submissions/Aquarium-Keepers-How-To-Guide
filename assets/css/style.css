@@ -131,6 +131,29 @@ nav div ul li{
     }
 }
 
+/* Footer */
+
+footer {
+    height: 100px;
+}
+
+.socials{
+    text-align: center;
+    padding: inherit;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
+
+
 /* Media Queiries */
 
 @media screen and (min-width:992px){
@@ -330,6 +353,14 @@ nav div ul li{
     #cover-text h2 {
         font-size: 2rem;
     }
+
+    footer {
+        height: 50px;
+    }
+
+    .socials i {
+        font-size: 110%;
+    }
 }
 
 @media screen and (max-width: 375px){
@@ -411,24 +442,3 @@ nav div ul li{
     background: #173058;
 }
 
-/* Footer */
-
-footer {
-    height: 100px;
-}
-
-.socials{
-    text-align: center;
-    padding: inherit;
-}
-
-.socials li {
-    display: inline;
-}
-
-.socials i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #777777;
-}
