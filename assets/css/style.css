@@ -138,6 +138,7 @@ footer {
 }
 
 .socials{
+    margin: 0;
     text-align: center;
     padding: inherit;
 }
@@ -147,10 +148,9 @@ footer {
 }
 
 .socials i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #777777;
+    font-size: 200%;
+    padding: 3%;
+    color: #fe9900;
 }
 
 
@@ -201,6 +201,10 @@ footer {
         font-size: 2em;
     }
 
+    .socials{
+        margin-top: 1.5%;
+    }
+
 }
 @media screen and (max-width: 1200px){
     .navbar{
@@ -237,6 +241,10 @@ footer {
         font-size: 1.5em;
     }
 
+    .socials{
+        margin-top: 3%;
+    }
+
 }
 
 @media screen and (max-width: 992px){
@@ -269,6 +277,10 @@ footer {
 
     #cover-text h2 {
         font-size: 2em;
+    }
+
+    .socials{
+        margin-top: 4%;
     }
 
 }
@@ -314,6 +326,9 @@ footer {
         right: 25%;
     }
 
+    .socials{
+        margin-top: 6%;
+    }
     
 }
 
@@ -358,8 +373,12 @@ footer {
         height: 50px;
     }
 
+    .socials{
+        margin-top: 3%;
+    }
+
     .socials i {
-        font-size: 110%;
+        font-size: 140%;
     }
 }
 
@@ -394,6 +413,10 @@ footer {
         height: 120px;
         bottom: 25px;
         right: 25%;
+    }
+
+    .socials{
+        margin-top: 4%;
     }
 
 }
@@ -434,6 +457,11 @@ footer {
         bottom: 25px;
         right: 25%;
     }
+
+    .socials{
+        margin-top: 5%;
+    }
+
 }
 
 /* Hover.css */
