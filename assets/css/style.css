@@ -1,10 +1,15 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #478eff;
 }
 
 /* Colors */
 
-.bg-color-navigation{
+.bg-color-header{
+    background-color: #173058;
+}
+
+.bg-color-footer{
     background-color: #173058;
 }
 
@@ -66,6 +71,15 @@ nav div ul li{
     border-left: 1px solid #173058;
     border-right: 1px solid #173058;
     border-collapse: collapse;
+}
+
+/* About section */
+
+#about{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline
 }
 
 /* Bootstrap override */
@@ -395,4 +409,26 @@ nav div ul li{
 
 .hvr-sweep-to-bottom:before{
     background: #173058;
+}
+
+/* Footer */
+
+footer {
+    height: 100px;
+}
+
+.socials{
+    text-align: center;
+    padding: inherit;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
 }
