@@ -79,24 +79,37 @@ nav div ul li{
     text-align: center;
     font-size: 50px;
     margin: 10px 0;
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 .about-us{
     font-size: 30px;
 }
 
-/* Setup intro*/
+/* Setup intro */
 
 #setup-intro{
     text-align: center;
     font-size: 50px;
     margin: 10px 0;
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 .setup-introduction{
     font-size: 30px;
+}
+
+/* Nitrogen intro */
+
+#nitrogen-intro{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.nitrogen-intoduction{
+    font-size: 30px
 }
 
 /* Bootstrap override */
@@ -408,6 +421,10 @@ footer {
     .setup-introduction{
         font-size: 1rem;
     }
+
+    .nitrogen-intoduction{
+        font-size: 1rem;
+}
 
 }
 
