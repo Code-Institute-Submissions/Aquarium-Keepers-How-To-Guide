@@ -72,3 +72,14 @@ During the design process sitting with the client we drew up wireframes using [B
 
 ---
 
+## Technology Used
+
+* HTML & CSS programming languages
+* [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
+* [Google Fonts](https://fonts.google.com/) - ShadowsIntoLight & Roboto Styles
+* [Font Awesome](https://fontawesome.com/) - Social Media Logos
+* [jQuery](https://jquery.com/) - Javascript needed for navbar.
+* [Popper.js](https://popper.js.org/) - Javascript needed for navbar.
+* [GitPod](https://gitpod.io/) - IDE for local developement
+* [GIT](https://git-scm.com/) - Version Control
+* [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
