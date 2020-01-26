@@ -109,7 +109,20 @@ nav div ul li{
 }
 
 .nitrogen-introduction{
-    font-size: 30px
+    font-size: 30px;
+}
+
+/* Nitrogen intro */
+
+#decoration-intro{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.decoration-introduction{
+    font-size: 30px;
 }
 
 /* Bootstrap override */
@@ -424,7 +437,11 @@ footer {
 
     .nitrogen-introduction{
         font-size: 1rem;
-}
+    }
+
+    .decoration-introduction{
+        font-size: 1rem;
+    }
 
 }
 
