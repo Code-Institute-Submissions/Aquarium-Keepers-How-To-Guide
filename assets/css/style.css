@@ -95,6 +95,10 @@ nav div ul li{
     text-decoration: underline
 }
 
+.setup-introduction{
+    font-size: 30px;
+}
+
 /* Bootstrap override */
 
 .no-padding{
@@ -112,7 +116,6 @@ nav div ul li{
 /* Hero image */
 
 .hero-img{
-    height: 700px;
     background-image: url(../images/hero-image.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -399,8 +402,13 @@ footer {
     }
 
     .about-us{
-    font-size: 1rem;
-}
+        font-size: 1rem;
+    }
+
+    .setup-introduction{
+        font-size: 1rem;
+    }
+
 }
 
 @media screen and (max-width: 375px){
