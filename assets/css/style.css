@@ -73,6 +73,10 @@ nav div ul li{
     border-collapse: collapse;
 }
 
+nav div ul li .active{
+    background: #173058;
+}
+
 /* About section */
 
 #about{
