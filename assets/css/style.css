@@ -83,7 +83,16 @@ nav div ul li{
 }
 
 .about-us{
-   /* font-size: 30px;*/
+    font-size: 30px;
+}
+
+/* Setup intro*/
+
+#setup-intro{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline
 }
 
 /* Bootstrap override */
@@ -208,6 +217,10 @@ footer {
     .socials{
         margin-top: 1.5%;
     }
+
+    .about-us{
+    font-size: 30px;
+}
 
 }
 @media screen and (max-width: 1200px){
@@ -384,6 +397,10 @@ footer {
     .socials i {
         font-size: 140%;
     }
+
+    .about-us{
+    font-size: 1rem;
+}
 }
 
 @media screen and (max-width: 375px){
