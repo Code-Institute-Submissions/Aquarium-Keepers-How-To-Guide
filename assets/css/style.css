@@ -82,6 +82,10 @@ nav div ul li{
     text-decoration: underline
 }
 
+.about-us{
+   /* font-size: 30px;*/
+}
+
 /* Bootstrap override */
 
 .no-padding{
