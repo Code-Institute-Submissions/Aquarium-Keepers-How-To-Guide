@@ -83,3 +83,16 @@ During the design process sitting with the client we drew up wireframes using [B
 * [GitPod](https://gitpod.io/) - IDE for local developement
 * [GIT](https://git-scm.com/) - Version Control
 * [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
+
+---
+
+## Credits
+
+### Content
+Icon image (simple PNG Designed By alluranet from <a href="https://pngtree.com/">Pngtree.com</a>)
+
+Logo image provided by the client.
+
+Hero image obtained from (<a href="https://www.practicalfishkeeping.co.uk/features/how-to-set-up-a-temperate-tank-that-looks-tropical/">PracticalFishkeeping.com</a>)
+
+The content text was all written by the client based on facts and own knowledge.
