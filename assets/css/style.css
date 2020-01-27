@@ -92,14 +92,14 @@ nav div ul li .active{
 
 /* Setup intro */
 
-#setup-intro{
+.intro-title{
     text-align: center;
     font-size: 50px;
     margin: 10px 0;
     text-decoration: underline;
 }
 
-.setup-introduction{
+.intro-text{
     font-size: 30px;
 }
 
@@ -435,15 +435,7 @@ footer {
         font-size: 1rem;
     }
 
-    .setup-introduction{
-        font-size: 1rem;
-    }
-
-    .nitrogen-introduction{
-        font-size: 1rem;
-    }
-
-    .decoration-introduction{
+    .intro-text{
         font-size: 1rem;
     }
 
