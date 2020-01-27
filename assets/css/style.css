@@ -198,6 +198,20 @@ footer {
     padding: 3%;
     color: #fe9900;
 }
+/* Button */
+
+.btn--cta{
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 150px;
+}
+
+.btn--yellow{
+    color: #173058;
+    background-color: #fe9900;
+    border-color: #fe9900;
+}
 
 
 /* Media Queiries */
@@ -295,6 +309,13 @@ footer {
         margin-top: 3%;
     }
 
+    .btn--cta{
+        font-size: 24px;
+        font-weight: bold;
+        border-radius: 23px;
+        width: 250px;
+    }
+
 }
 
 @media screen and (max-width: 992px){
@@ -332,6 +353,13 @@ footer {
     .socials{
         margin-top: 4%;
     }
+
+    .btn--cta{
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 200px;
+}
 
 }
 
@@ -379,6 +407,13 @@ footer {
     .socials{
         margin-top: 6%;
     }
+
+    .btn--cta{
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 150px;
+}
     
 }
 
@@ -438,6 +473,13 @@ footer {
     .intro-text{
         font-size: 1rem;
     }
+
+    .btn--cta{
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 100px;
+}
 
 }
 
@@ -521,6 +563,13 @@ footer {
         margin-top: 5%;
     }
 
+    .btn--cta{
+    font-size: 8px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 80px;
+}
+
 }
 
 /* Hover.css */
@@ -528,4 +577,3 @@ footer {
 .hvr-sweep-to-bottom:before{
     background: #173058;
 }
-
