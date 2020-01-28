@@ -205,6 +205,7 @@ footer {
     font-weight: bold;
     border-radius: 23px;
     width: 150px;
+    margin-top: 10px;
 }
 
 .btn--yellow{
@@ -271,9 +272,9 @@ footer {
 
     .btn--cta{
         font-size: 24px;
-        font-weight: bold;
-        border-radius: 23px;
         width: 250px;
+        margin-left: 100px;
+        margin-top: 25px;
     }
 
 }
@@ -316,6 +317,10 @@ footer {
         margin-top: 3%;
     }
 
+    .btn--cta{
+        margin-left: 75px;
+    }
+
 }
 
 @media screen and (max-width: 992px){
@@ -356,8 +361,6 @@ footer {
 
     .btn--cta{
     font-size: 24px;
-    font-weight: bold;
-    border-radius: 23px;
     width: 200px;
 }
 
@@ -410,9 +413,8 @@ footer {
 
     .btn--cta{
     font-size: 20px;
-    font-weight: bold;
-    border-radius: 23px;
     width: 150px;
+    margin-left: 50px;
 }
     
 }
@@ -476,9 +478,9 @@ footer {
 
     .btn--cta{
     font-size: 12px;
-    font-weight: bold;
-    border-radius: 23px;
     width: 100px;
+    margin-left: 10px;
+    margin-top: 7px;
 }
 
 }
@@ -519,6 +521,10 @@ footer {
     .socials{
         margin-top: 4%;
     }
+
+    .btn--cta{
+    margin-left: 5px;
+    margin-top: 7px;
 
 }
 
@@ -565,9 +571,9 @@ footer {
 
     .btn--cta{
     font-size: 8px;
-    font-weight: bold;
-    border-radius: 23px;
     width: 80px;
+    margin-left: 5px;
+    margin-top: 10px;
 }
 
 }
