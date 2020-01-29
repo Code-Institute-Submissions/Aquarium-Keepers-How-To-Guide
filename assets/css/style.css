@@ -189,6 +189,15 @@ footer {
     color: #fe9900;
 }
 
+/* Setup Page */
+
+.setup-title{
+    text-align: center;
+    font-size: 75px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
 /* Media Queiries */
 
 @media screen and (min-width:992px){
