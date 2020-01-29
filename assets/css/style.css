@@ -198,9 +198,15 @@ footer {
     text-decoration: underline;
 }
 
-.setup-text1{
+.setup-text{
     font-size: 30px;
 }
+
+.setup-subtitle{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
 
 /* Media Queiries */
 
