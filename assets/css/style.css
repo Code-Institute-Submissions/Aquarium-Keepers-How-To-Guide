@@ -3,6 +3,20 @@ body {
     background-color: #478eff;
 }
 
+/* Bootstrap override */
+
+.no-padding{
+    padding: 0 !important;
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.overflow-hide{
+    overflow: hidden;
+}
+
 /* Colors */
 
 .bg-color-header{
@@ -77,72 +91,6 @@ nav div ul li .active{
     background: #173058;
 }
 
-/* About section */
-
-#about{
-    text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
-
-.about-us{
-    font-size: 30px;
-}
-
-/* Setup intro */
-
-.intro-title{
-    text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
-
-.intro-text{
-    font-size: 30px;
-}
-
-/* Nitrogen intro */
-
-#nitrogen-intro{
-    text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
-
-.nitrogen-introduction{
-    font-size: 30px;
-}
-
-/* Nitrogen intro */
-
-#decoration-intro{
-    text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
-
-.decoration-introduction{
-    font-size: 30px;
-}
-
-/* Bootstrap override */
-
-.no-padding{
-    padding: 0 !important;
-}
-
-.no-margin{
-    margin: 0 !important;
-}
-
-.overflow-hide{
-    overflow: hidden;
-}
-
 /* Hero image */
 
 .hero-img{
@@ -177,6 +125,48 @@ nav div ul li .active{
     }
 }
 
+/* About section */
+
+#about{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.about-us{
+    font-size: 30px;
+}
+
+/* Intros */
+
+.intro-title{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.intro-text{
+    font-size: 30px;
+}
+
+/* Button */
+
+.btn--cta{
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.btn--yellow{
+    color: #173058;
+    background-color: #fe9900;
+    border-color: #fe9900;
+}
+
 /* Footer */
 
 footer {
@@ -198,22 +188,6 @@ footer {
     padding: 3%;
     color: #fe9900;
 }
-/* Button */
-
-.btn--cta{
-    font-size: 20px;
-    font-weight: bold;
-    border-radius: 23px;
-    width: 150px;
-    margin-top: 10px;
-}
-
-.btn--yellow{
-    color: #173058;
-    background-color: #fe9900;
-    border-color: #fe9900;
-}
-
 
 /* Media Queiries */
 
@@ -360,9 +334,9 @@ footer {
     }
 
     .btn--cta{
-    font-size: 24px;
-    width: 200px;
-}
+        font-size: 24px;
+        width: 200px;
+    }
 
 }
 
@@ -375,23 +349,23 @@ footer {
     }
 
     .navbar-brand{
-    font-size: 29px;
-    margin: 18% 0;
+        font-size: 29px;
+        margin: 18% 0;
     }
 
     .navbar-text{
-    font-size: 26px;
-    margin-top: 10%;
+        font-size: 26px;
+        margin-top: 10%;
     }
 
     .navbar .navbar-toggler{
-    border: 0;
-    margin: 9% auto;
+        border: 0;
+        margin: 9% auto;
     }
 
     .navbar .navbar-toggler .navbar-toggler-icon{
-    height: 60px;
-    width: 60px;
+        height: 60px;
+        width: 60px;
     }
 
     .hero-img{
@@ -412,10 +386,10 @@ footer {
     }
 
     .btn--cta{
-    font-size: 20px;
-    width: 150px;
-    margin-left: 50px;
-}
+        font-size: 20px;
+        width: 150px;
+        margin-left: 50px;
+    }
     
 }
 
@@ -425,18 +399,18 @@ footer {
     }
 
     .navbar-brand{
-    font-size: 28px;
-    margin: 14% 0;
+        font-size: 28px;
+        margin: 14% 0;
     }
 
     .navbar .navbar-toggler{
-    border: 0;
-    margin: 13% auto;
+        border: 0;
+        margin: 13% auto;
     }
 
     .navbar .navbar-toggler .navbar-toggler-icon{
-    height: 60px;
-    width: 60px;
+        height: 60px;
+        width: 60px;
     }
 
     .hero-img{
@@ -477,12 +451,11 @@ footer {
     }
 
     .btn--cta{
-    font-size: 12px;
-    width: 100px;
-    margin-left: 10px;
-    margin-top: 7px;
-}
-
+        font-size: 12px;
+        width: 100px;
+        margin-left: 10px;
+        margin-top: 7px;
+    }
 }
 
 @media screen and (max-width: 375px){
@@ -491,18 +464,18 @@ footer {
     }
 
     .navbar-brand{
-    font-size: 26px;
-    margin: 13% 0;
+        font-size: 26px;
+        margin: 13% 0;
     }
 
     .navbar .navbar-toggler{
-    border: 0;
-    margin: 14% auto;
+        border: 0;
+        margin: 14% auto;
     }
 
     .navbar .navbar-toggler .navbar-toggler-icon{
-    height: 50px;
-    width: 50px;
+        height: 50px;
+        width: 50px;
     }
 
     .hero-img{
@@ -523,9 +496,9 @@ footer {
     }
 
     .btn--cta{
-    margin-left: 5px;
-    margin-top: 7px;
-
+        margin-left: 5px;
+        margin-top: 7px;
+    }
 }
 
 @media screen and (max-width: 320px){
@@ -534,18 +507,18 @@ footer {
     }
 
     .navbar-brand{
-    font-size: 24px;
-    margin: 11.5% 0;
+        font-size: 24px;
+        margin: 11.5% 0;
     }
 
     .navbar .navbar-toggler{
-    border: 0;
-    margin: 15% auto;
+        border: 0;
+        margin: 15% auto;
     }
 
     .navbar .navbar-toggler .navbar-toggler-icon{
-    height: 40px;
-    width: 40px;
+        height: 40px;
+        width: 40px;
     }
 
     .navbar-nav{
@@ -570,12 +543,11 @@ footer {
     }
 
     .btn--cta{
-    font-size: 8px;
-    width: 80px;
-    margin-left: 5px;
-    margin-top: 10px;
-}
-
+        font-size: 8px;
+        width: 80px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
 }
 
 /* Hover.css */
