@@ -580,6 +580,6 @@ footer {
 
 /* Hover.css */
 
-.hvr-sweep-to-bottom:before{
-    background: #173058;
+li .hvr-sweep-to-bottom:before{
+    background-color: #173058 !important;
 }
