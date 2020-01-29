@@ -80,6 +80,7 @@ During the design process sitting with the client we drew up wireframes using [B
 * [Font Awesome](https://fontawesome.com/) - Social Media Logos
 * [jQuery](https://jquery.com/) - Javascript needed for navbar.
 * [Popper.js](https://popper.js.org/) - Javascript needed for navbar.
+* [Hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css) - Javascript for hover in navbar/
 * [GitPod](https://gitpod.io/) - IDE for local developement
 * [GIT](https://git-scm.com/) - Version Control
 * [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
