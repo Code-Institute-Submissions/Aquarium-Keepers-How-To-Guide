@@ -96,4 +96,10 @@ Logo image provided by the client.
 
 Hero image obtained from (<a href="https://www.practicalfishkeeping.co.uk/features/how-to-set-up-a-temperate-tank-that-looks-tropical/">PracticalFishkeeping.com</a>)
 
+Powerhead image obtained from (<a href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUl9DL_annAhWPxYUKHTXiD4IQjhx6BAgBEAI&url=https%3A%2F%2Fwww.amazon.co.uk%2FJVP-101-Wavemaker-Powerhead-Aquarium-Circulation%2Fdp%2FB008E8K4G0&psig=AOvVaw36lH83IZ8SWdaaobvTm87U&ust=1580427043861551">Amazon.com</a>)
+
+Airstone image obtained from (<a href="http://www.tropicalfishsite.com/how-to-set-up-bubbles-in-a-tropical-fish-tank-aquarium/">Tropicalfishsite.com</a>)
+
+Thermometer image obtained frome (<a href="https://www.fragglereef.co.uk/venmo-straightforward-learn-aquarium-thermometer-stick-on-fish-tank-pool-water-temperatue-thermometer-correct/">fragglereef.co.uk</a>)
+
 The content text was all written by the client based on facts and own knowledge.
