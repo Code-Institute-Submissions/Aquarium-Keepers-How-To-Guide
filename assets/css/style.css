@@ -193,9 +193,13 @@ footer {
 
 .setup-title{
     text-align: center;
-    font-size: 75px;
+    font-size: 70px;
     margin: 10px 0;
     text-decoration: underline;
+}
+
+.setup-text1{
+    font-size: 30px;
 }
 
 /* Media Queiries */
