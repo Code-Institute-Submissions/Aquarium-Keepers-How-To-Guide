@@ -209,6 +209,11 @@ footer {
     text-decoration: underline;
 }
 
+#powerhead{
+    width: 100%;
+    height: auto;
+}
+
 /* Media Queiries */
 
 @media screen and (min-width:992px){
