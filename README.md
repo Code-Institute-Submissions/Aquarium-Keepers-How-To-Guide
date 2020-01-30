@@ -100,6 +100,8 @@ Powerhead image obtained from (<a href="https://www.google.com/url?sa=i&source=i
 
 Airstone image obtained from (<a href="http://www.tropicalfishsite.com/how-to-set-up-bubbles-in-a-tropical-fish-tank-aquarium/">Tropicalfishsite.com</a>)
 
-Thermometer image obtained frome (<a href="https://www.fragglereef.co.uk/venmo-straightforward-learn-aquarium-thermometer-stick-on-fish-tank-pool-water-temperatue-thermometer-correct/">fragglereef.co.uk</a>)
+Thermometer image obtained from (<a href="https://www.fragglereef.co.uk/venmo-straightforward-learn-aquarium-thermometer-stick-on-fish-tank-pool-water-temperatue-thermometer-correct/">fragglereef.co.uk</a>)
+
+Tank setup image obtained from (<a href="https://www.fishkeepingworld.com/55-gallon-fish-tank/">Fishkeepingworld.com</a>)
 
 The content text was all written by the client based on facts and own knowledge.
