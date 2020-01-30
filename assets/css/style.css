@@ -210,8 +210,9 @@ footer {
 }
 
 #powerhead{
-    width: 100%;
+    width: 300px;
     height: auto;
+    margin-bottom: 10px;
 }
 
 /* Media Queiries */
