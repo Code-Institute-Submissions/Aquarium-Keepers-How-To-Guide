@@ -215,6 +215,26 @@ footer {
     margin-bottom: 10px;
 }
 
+/* Setup Page */
+
+.nitrogen-title{
+    text-align: center;
+    font-size: 70px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.nitrogen-text{
+    font-size: 30px;
+}
+
+.nitrogen-subtitle{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
 /* Media Queiries */
 
 @media screen and (min-width:992px){
@@ -261,10 +281,27 @@ footer {
 }
 
 #powerhead{
-    align-content: center;
     width: 500px;
     height: auto;
     margin-bottom: 10px;
+}
+
+.nitrogen-title{
+    text-align: center;
+    font-size: 100px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.nitrogen-text{
+    font-size: 50px;
+}
+
+.nitrogen-subtitle{
+    text-align: center;
+    font-size: 75px;
+    margin: 10px 0;
+    text-decoration: underline;
 }
 
 }
@@ -509,6 +546,10 @@ footer {
     }
 
     .setup-text{
+        font-size: 1rem;
+    }
+
+    .nitrogen-text{
         font-size: 1rem;
     }
 }
