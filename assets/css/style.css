@@ -210,7 +210,7 @@ footer {
 }
 
 #powerhead{
-    width: 300px;
+    width: 250px;
     height: auto;
     margin-bottom: 10px;
 }
@@ -241,6 +241,31 @@ footer {
     font-size: 36px;
     margin-top: 7%;
     }
+
+    .setup-title{
+    text-align: center;
+    font-size: 100px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.setup-text{
+    font-size: 50px;
+}
+
+.setup-subtitle{
+    text-align: center;
+    font-size: 75px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+#powerhead{
+    align-content: center;
+    width: 500px;
+    height: auto;
+    margin-bottom: 10px;
+}
 
 }
 
