@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #478eff;
+}
+
+/* Bootstrap override */
+
+.no-padding{
+    padding: 0 !important;
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.overflow-hide{
+    overflow: hidden;
+}
+
+/* decoration content */
+
+.decoration-title{
+    text-align: center;
+    font-size: 70px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.decoration-text{
+    font-size: 30px;
+}
+
+.decoration-subtitle{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+/* Decoration media queries */
+
+@media screen and (min-width: 1200px){
+    .decoration-title{
+        text-align: center;
+        font-size: 100px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
+
+    .decoration-text{
+        font-size: 50px;
+    }
+
+    .decoration-subtitle{
+        text-align: center;
+        font-size: 75px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .decoration-text{
+        font-size: 1rem;
+    }
+}
