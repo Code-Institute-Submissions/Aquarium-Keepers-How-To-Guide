@@ -20,6 +20,7 @@ body {
 /* Hero image */
 
 .hero-img{
+    height: 63.33%;
     background-image: url(../images/hero-image.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,17 +79,7 @@ body {
 }
 
 /* Media Queiries */
-@media screen and (min-width:2560px){
-    .hero-img{
-        height: 850px;
-    }
-}
-
 @media screen and (max-width:2560px){
-    .hero-img{
-        height: 850px;
-    }
-
     #cover-text{
         font-size: 42px;
         letter-spacing: 2px;
@@ -107,10 +98,6 @@ body {
     }
 }
 @media screen and (max-width: 1200px){
-    .hero-img{
-        height: 600px;
-    }
-
     #cover-text{
         font-size: 32px;
         letter-spacing: 2px;
@@ -126,10 +113,6 @@ body {
 }
 
 @media screen and (max-width: 992px){
-    .hero-img{
-        height: 500px;
-    }
-
     #cover-text{
         font-size: 28px;
         letter-spacing: 2px;
@@ -145,10 +128,6 @@ body {
 }
 
 @media screen and (max-width: 768px){
-    .hero-img{
-        height: 400px;
-    }
-
     #cover-text{
         font-size: 22px;
         letter-spacing: 2px;
@@ -160,10 +139,6 @@ body {
 }
 
 @media screen and (max-width: 425px){
-    .hero-img{
-        height: 200px;
-    }
-
     #cover-text{
         font-size: 12px;
         letter-spacing: 2px;
@@ -187,11 +162,6 @@ body {
 }
 
 @media screen and (max-width: 375px){
-
-    .hero-img{
-        height: 175px;
-    }
-
     #cover-text{
         font-size: 10px;
         letter-spacing: 2px;
@@ -203,11 +173,6 @@ body {
 }
 
 @media screen and (max-width: 320px){
-
-    .hero-img{
-        height: 150px;
-    }
-
     #cover-text{
         font-size: 8px;
         letter-spacing: 2px;
