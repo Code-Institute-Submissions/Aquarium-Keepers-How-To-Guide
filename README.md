@@ -87,6 +87,47 @@ During the design process sitting with the client we drew up wireframes using [B
 
 ---
 
+## Features
+
+### Home
+
+A brief introduction to the company, giving a short paragraph about who they are and then short paragraphs touching on the subjects of the other pages 
+with a continue reading button
+
+### Setup
+
+A new page with a deeper breakdown of the process of setting up a new aquarium
+
+### Nitrogen Cycle
+
+A new page with a deeper breakdown of the nitrogen cycle to allow a complete novice to gain an understanding of how it works
+
+### Decoration
+
+A new page with an in depth look at the 2 types of aquarium decorations
+
+### Contact Us
+
+A contact us form to allow for users to contact the company with any questions of problems
+
+---
+
+## Future Goals
+
+### Image Slideshow
+
+My client has requested for an automatic slideshow to show off examples of aquariums
+
+### FAQ
+
+When the company has received questions, they would like a page to display frequently asked ones to save time
+
+### Blog
+
+Allow for the company to share tips and tricks for aquarium keeping and to help keep the site engaging
+
+---
+
 ## Credits
 
 ### Content
