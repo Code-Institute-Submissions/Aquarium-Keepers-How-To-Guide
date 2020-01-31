@@ -128,6 +128,18 @@ Allow for the company to share tips and tricks for aquarium keeping and to help 
 
 ---
 
+## Testing
+
+My initial testing was carried out using Chromes developer tools to ensure that the site scaled correctly on each screen size.
+
+I also used the below tools to help ensure no issues as I completed each page of my build.
+
+- [W3C Markup Validation](https://validator.w3.org/) to validate HTML.
+
+- [W3C CSS validation](https://jigsaw.w3.org/css-validator/) to validate CSS
+
+---
+
 ## Credits
 
 ### Content
