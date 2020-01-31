@@ -249,7 +249,6 @@ nav div ul li .active{
 }
 
 /* Hover.css */
-
-li .hvr-sweep-to-bottom:before{
-    background-color: #173058 !important;
+.hvr-sweep-to-bottom:before{
+    background: #173058 !important;
 }
