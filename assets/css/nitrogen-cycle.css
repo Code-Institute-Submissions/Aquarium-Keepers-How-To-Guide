@@ -1,0 +1,79 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #478eff;
+}
+
+/* Bootstrap override */
+
+.no-padding{
+    padding: 0 !important;
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.overflow-hide{
+    overflow: hidden;
+}
+
+/* Nitrogen Cycle content */
+
+.nitrogen-title{
+    text-align: center;
+    font-size: 70px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.nitrogen-text{
+    font-size: 30px;
+}
+
+.nitrogen-subtitle{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+#nitrogen{
+    width: 250px;
+    height: auto;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+/* Nitrogen Cycle Media Queiries */
+
+@media screen and (min-width: 1200px){
+    .nitrogen-title{
+        text-align: center;
+        font-size: 100px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
+
+    .nitrogen-text{
+        font-size: 50px;
+    }
+
+    .nitrogen-subtitle{
+        text-align: center;
+        font-size: 75px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
+
+    #nitrogen{
+        width: 500px;
+        height: auto;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .nitrogen-text{
+        font-size: 1rem;
+    }
+}
