@@ -215,7 +215,7 @@ footer {
     margin-bottom: 10px;
 }
 
-/* Setup Page */
+/* Nitrogen Cycle Page */
 
 .nitrogen-title{
     text-align: center;
@@ -229,6 +229,26 @@ footer {
 }
 
 .nitrogen-subtitle{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+/* decoration Page */
+
+.decoration-title{
+    text-align: center;
+    font-size: 70px;
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.decoration-text{
+    font-size: 30px;
+}
+
+.decoration-subtitle{
     text-align: center;
     font-size: 50px;
     margin: 10px 0;
@@ -298,6 +318,24 @@ footer {
     }
 
     .nitrogen-subtitle{
+        text-align: center;
+        font-size: 75px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
+
+    .decoration-title{
+        text-align: center;
+        font-size: 100px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
+
+    .decoration-text{
+        font-size: 50px;
+    }
+
+    .decoration-subtitle{
         text-align: center;
         font-size: 75px;
         margin: 10px 0;
@@ -550,6 +588,10 @@ footer {
     }
 
     .nitrogen-text{
+        font-size: 1rem;
+    }
+
+    .decoration-text{
         font-size: 1rem;
     }
 }
