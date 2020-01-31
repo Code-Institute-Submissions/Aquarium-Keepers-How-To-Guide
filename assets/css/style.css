@@ -20,6 +20,7 @@ body {
 /* Hero image */
 
 .hero-img{
+    width: 100%;
     height: 63.33%;
     background-image: url(../images/hero-image.png);
     background-size: cover;
