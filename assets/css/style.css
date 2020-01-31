@@ -263,46 +263,46 @@ footer {
     }
 
     .setup-title{
-    text-align: center;
-    font-size: 100px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
+        text-align: center;
+        font-size: 100px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
 
-.setup-text{
-    font-size: 50px;
-}
+    .setup-text{
+        font-size: 50px;
+    }
 
-.setup-subtitle{
-    text-align: center;
-    font-size: 75px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
+    .setup-subtitle{
+        text-align: center;
+        font-size: 75px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
 
-#powerhead{
-    width: 500px;
-    height: auto;
-    margin-bottom: 10px;
-}
+    #powerhead{
+        width: 500px;
+        height: auto;
+        margin-bottom: 10px;
+    }
 
-.nitrogen-title{
-    text-align: center;
-    font-size: 100px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
+    .nitrogen-title{
+        text-align: center;
+        font-size: 100px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
 
-.nitrogen-text{
-    font-size: 50px;
-}
+    .nitrogen-text{
+        font-size: 50px;
+    }
 
-.nitrogen-subtitle{
-    text-align: center;
-    font-size: 75px;
-    margin: 10px 0;
-    text-decoration: underline;
-}
+    .nitrogen-subtitle{
+        text-align: center;
+        font-size: 75px;
+        margin: 10px 0;
+        text-decoration: underline;
+    }
 
 }
 
