@@ -209,6 +209,20 @@ footer {
     text-decoration: underline;
 }
 
+#airstone{
+    width: 250px;
+    height: auto;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+#thermometer{
+    width: 250px;
+    height: auto;
+    margin: 0 auto 10px;
+    display: block;
+}
+
 #powerhead{
     width: 250px;
     height: auto;
