@@ -257,6 +257,13 @@ footer {
     text-decoration: underline;
 }
 
+#nitrogen{
+    width: 250px;
+    height: auto;
+    margin: 0 auto 10px;
+    display: block;
+}
+
 /* decoration Page */
 
 .decoration-title{
@@ -322,6 +329,24 @@ footer {
         text-decoration: underline;
     }
 
+    #tanksetup{
+        width: 500px;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    #airstone{
+        width: 500px;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    #thermometer{
+        width: 500px;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
     #powerhead{
         width: 500px;
         height: auto;
@@ -344,6 +369,12 @@ footer {
         font-size: 75px;
         margin: 10px 0;
         text-decoration: underline;
+    }
+
+    #nitrogen{
+        width: 500px;
+        height: auto;
+        margin-bottom: 10px;
     }
 
     .decoration-title{
