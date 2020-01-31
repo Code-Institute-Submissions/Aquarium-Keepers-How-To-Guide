@@ -1,0 +1,156 @@
+/* Bootstrap override */
+
+.no-padding{
+    padding: 0 !important;
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.overflow-hide{
+    overflow: hidden;
+}
+
+/* Footer color */
+
+.bg-color-footer{
+    background-color: #173058;
+}
+
+/* Button */
+
+.btn--cta{
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 23px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.btn--yellow{
+    color: #173058;
+    background-color: #fe9900;
+    border-color: #fe9900;
+}
+
+/* Footer content */
+
+footer {
+    height: 100px;
+}
+
+.socials{
+    margin: 0;
+    text-align: center;
+    padding: inherit;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 200%;
+    padding: 3%;
+    color: #fe9900;
+}
+
+/* Footer media queries */
+    
+@media screen and (max-width:2560px){
+
+    .socials{
+        margin-top: 1.5%;
+    }
+
+    .btn--cta{
+        font-size: 24px;
+        width: 250px;
+        margin-left: 100px;
+        margin-top: 25px;
+    }
+}
+@media screen and (max-width: 1200px){
+
+    .socials{
+        margin-top: 3%;
+    }
+
+    .btn--cta{
+        margin-left: 75px;
+    }
+}
+
+@media screen and (max-width: 992px){
+
+    .socials{
+        margin-top: 4%;
+    }
+
+    .btn--cta{
+        font-size: 24px;
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    
+    .socials{
+        margin-top: 6%;
+    }
+
+    .btn--cta{
+        font-size: 20px;
+        width: 150px;
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 425px){
+
+    footer {
+        height: 50px;
+    }
+
+    .socials{
+        margin-top: 3%;
+    }
+
+    .socials i {
+        font-size: 140%;
+    }
+
+    .btn--cta{
+        font-size: 12px;
+        width: 100px;
+        margin-left: 10px;
+        margin-top: 7px;
+    }
+}
+
+@media screen and (max-width: 375px){
+
+    .socials{
+        margin-top: 4%;
+    }
+
+    .btn--cta{
+        margin-left: 5px;
+        margin-top: 7px;
+    }
+}
+
+@media screen and (max-width: 320px){
+
+    .socials{
+        margin-top: 5%;
+    }
+
+    .btn--cta{
+        font-size: 8px;
+        width: 80px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+}
