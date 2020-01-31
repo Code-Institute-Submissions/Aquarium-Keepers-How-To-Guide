@@ -157,4 +157,6 @@ Thermometer image obtained from (<a href="https://www.fragglereef.co.uk/venmo-st
 
 Tank setup image obtained from (<a href="https://www.fishkeepingworld.com/55-gallon-fish-tank/">Fishkeepingworld.com</a>)
 
+Nitrogen cycle image obtained from (<a href="https://66.media.tumblr.com/9435fa395a5c20d70cebcee3bf5a6cc4/tumblr_inline_pavn29HpZg1sezw2m_250.png">Tumblr.com</a>)
+
 While this is a website for a fictional company, the content text was all written based on facts and own knowledge.
