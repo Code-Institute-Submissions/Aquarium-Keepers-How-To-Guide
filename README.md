@@ -157,4 +157,4 @@ Thermometer image obtained from (<a href="https://www.fragglereef.co.uk/venmo-st
 
 Tank setup image obtained from (<a href="https://www.fishkeepingworld.com/55-gallon-fish-tank/">Fishkeepingworld.com</a>)
 
-The content text was all written by the client based on facts and own knowledge.
+While this is a website for a fictional company, the content text was all written based on facts and own knowledge.
