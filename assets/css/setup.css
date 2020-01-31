@@ -1,3 +1,8 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #478eff;
+}
+
 /* Bootstrap override */
 
 .no-padding{
