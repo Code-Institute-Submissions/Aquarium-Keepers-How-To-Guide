@@ -20,13 +20,13 @@
 
 /* Header content */
 header{
-    height: 10vw;
+    height: 15vw;
 }
 
 .logo-img{
-    height: 9vw;
+    height: 13vw;
     width: auto;
-    margin: 2.5vw 0; 
+    margin: 0.5vw 0; 
     margin-left: 10px;
 }
 
