@@ -6,46 +6,19 @@ body {
 
 .decoration-title{
     text-align: center;
-    font-size: 70px;
-    margin: 10px 0;
+    font-size: 5vw;
+    margin: 1vw 0;
     text-decoration: underline;
 }
 
 .decoration-text{
-    font-size: 30px;
+    text-align: center;
+    font-size: 3vw;
 }
 
 .decoration-subtitle{
     text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
+    font-size: 4vw;
+    margin: 1vw 0;
     text-decoration: underline;
-}
-
-/* Decoration media queries */
-
-@media screen and (min-width: 1200px){
-    .decoration-title{
-        text-align: center;
-        font-size: 100px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
-
-    .decoration-text{
-        font-size: 50px;
-    }
-
-    .decoration-subtitle{
-        text-align: center;
-        font-size: 75px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
-}
-
-@media screen and (max-width: 425px){
-    .decoration-text{
-        font-size: 1rem;
-    }
 }
