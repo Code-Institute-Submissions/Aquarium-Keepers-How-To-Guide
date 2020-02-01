@@ -25,7 +25,7 @@ body {
 }
 
 #tanksetup{
-    width: 250px;
+    width: 25vw;
     height: auto;
     margin: 0 auto 10px;
     display: block;
@@ -57,25 +57,17 @@ body {
 @media screen and (min-width: 1200px){
     #tanksetup{
         width: 500px;
-        height: auto;
-        margin-bottom: 10px;
     }
 
     #airstone{
         width: 500px;
-        height: auto;
-        margin-bottom: 10px;
     }
 
     #thermometer{
         width: 500px;
-        height: auto;
-        margin-bottom: 10px;
     }
 
     #powerhead{
         width: 500px;
-        height: auto;
-        margin-bottom: 10px;
     }
 }
