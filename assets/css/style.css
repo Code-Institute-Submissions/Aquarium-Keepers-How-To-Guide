@@ -33,7 +33,7 @@ body {
 
 #cover-text,
 #cover-text h2 {
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-align: center;
     color: #fe9900;
 }
@@ -42,7 +42,7 @@ body {
     font-size: 2.5vw;
     letter-spacing: 2px;
     width: 50%;
-    top: 50%;
+    top: 40%;
     right: 25%;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
