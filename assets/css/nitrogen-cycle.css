@@ -7,59 +7,26 @@ body {
 
 .nitrogen-title{
     text-align: center;
-    font-size: 70px;
-    margin: 10px 0;
+    font-size: 5vw;
+    margin: 1vw 0;
     text-decoration: underline;
 }
 
 .nitrogen-text{
-    font-size: 30px;
+    text-align: center;
+    font-size: 3vw;
 }
 
 .nitrogen-subtitle{
     text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
+    font-size: 4vw;
+    margin: 1vw 0;
     text-decoration: underline;
 }
 
 #nitrogen{
-    width: 250px;
+    width: 80vw;
     height: auto;
-    margin: 0 auto 10px;
+    margin: 0 auto 1vw;
     display: block;
-}
-
-/* Nitrogen Cycle Media Queiries */
-
-@media screen and (min-width: 1200px){
-    .nitrogen-title{
-        text-align: center;
-        font-size: 100px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
-
-    .nitrogen-text{
-        font-size: 50px;
-    }
-
-    .nitrogen-subtitle{
-        text-align: center;
-        font-size: 75px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
-
-    #nitrogen{
-        width: 500px;
-        height: auto;
-        margin-bottom: 10px;
-    }
-}
-
-@media screen and (max-width: 425px){
-    .nitrogen-text{
-        font-size: 1rem;
-    }
 }
