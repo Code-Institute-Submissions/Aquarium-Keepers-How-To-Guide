@@ -61,8 +61,8 @@ header{
 
 nav div ul li{
     background: #1c3a6a;
-    border-left: 0.1vw solid #173058;
-    border-right: 0.1vw solid #173058;
+    border-left: 0.2vw solid #173058;
+    border-right: 0.2vw solid #173058;
     border-collapse: collapse;
 }
 
