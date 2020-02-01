@@ -40,12 +40,11 @@ header{
     margin: 1.5vw 0;
 }
 
-
 .navbar{
     border: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0);
-    font-size: 14px;
+    background-color: #173058;
+    font-size: 2vw;
 }
 .navbar .navbar-toggler{
     background: #1c3a6a;
@@ -83,18 +82,11 @@ nav div ul li .active{
     .navbar{
         margin-top: 8%;
     }
-
-    .navbar-nav{
-        font-size: 1.5rem;
-    }
 }
 
 @media screen and (max-width: 1200px){
     .navbar{
         margin-top: 5%;
-    }
-    .navbar-nav{
-        font-size: 1rem;
     }
 }
 
@@ -152,10 +144,6 @@ nav div ul li .active{
     .navbar .navbar-toggler .navbar-toggler-icon{
         height: 40px;
         width: 40px;
-    }
-
-    .navbar-nav{
-        font-size: 0.75em;
     }
 }
 
