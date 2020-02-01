@@ -41,7 +41,8 @@ body {
     font-size: 2.5vw;
     letter-spacing: 2px;
     width: 50%;
-
+    height: 31.665vw;
+    bottom: 25vw;
     right: 25%;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
