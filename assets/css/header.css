@@ -19,9 +19,8 @@
 }
 
 /* Header content */
-
 header{
-    width: 100%;
+    height: 20vh;
 }
 
 .navbar{
@@ -62,15 +61,6 @@ header{
     margin-left: auto;
 }
 
-.navbar-text{
-    display: block;
-    text-align: center;
-    color: #fe9900;
-    font-weight: bold;
-    padding: 0;
-    text-decoration: underline;
-}
-
 nav div ul li{
     background: #1c3a6a;
     border-left: 1px solid #173058;
@@ -103,18 +93,6 @@ nav div ul li .active{
         font-size: 38px;
         margin: 12.5% 0;
     }
-
-    .navbar-text{
-        font-size: 36px;
-        margin-top: 7%;
-    }
-
-    .setup-title{
-        text-align: center;
-        font-size: 100px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
 }
 
 @media screen and (max-width: 1200px){
@@ -125,12 +103,6 @@ nav div ul li .active{
         font-size: 38px;
         margin: 5% 0;
     }
-
-    .navbar-text{
-        font-size: 34px;
-        margin-top: 2%;
-    }
-
     .navbar-nav{
         font-size: 1rem;
     }
@@ -145,11 +117,6 @@ nav div ul li .active{
         font-size: 36px;
         margin: 5% 0;
     }
-
-    .navbar-text{
-        font-size: 30px;
-        margin-top: 3%;
-    }
 }
 
 @media screen and (max-width: 768px){
@@ -163,11 +130,6 @@ nav div ul li .active{
     .navbar-brand{
         font-size: 29px;
         margin: 18% 0;
-    }
-
-    .navbar-text{
-        font-size: 26px;
-        margin-top: 10%;
     }
 
     .navbar .navbar-toggler{
