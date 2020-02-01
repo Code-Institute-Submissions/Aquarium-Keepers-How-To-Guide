@@ -87,11 +87,6 @@ body {
 
 /* Media Queiries */
 @media screen and (max-width:2560px){
-    #cover-text{
-        height: 400px;
-        bottom: 225px;
-    }
-
     #cover-text h2 {
         font-size: 2em;
     }
@@ -101,10 +96,6 @@ body {
     }
 }
 @media screen and (max-width: 1200px){
-    #cover-text{
-        height: 300px;
-        bottom: 150px;
-    }
 
     #cover-text h2 {
         font-size: 1.5em;
@@ -112,10 +103,7 @@ body {
 }
 
 @media screen and (max-width: 992px){
-    #cover-text{
-        height: 250px;
-        bottom: 125px;
-    }
+
 
     #cover-text h2 {
         font-size: 2em;
@@ -123,18 +111,11 @@ body {
 }
 
 @media screen and (max-width: 768px){
-    #cover-text{
-        height: 200px;
-        bottom: 100px;
-    }
+    
 }
 
 @media screen and (max-width: 425px){
-    #cover-text{
-        height: 140px;
-        bottom: 25px;
-    }
-
+    
     #cover-text h2 {
         font-size: 2rem;
     }
@@ -149,15 +130,9 @@ body {
 }
 
 @media screen and (max-width: 375px){
-    #cover-text{
-        height: 120px;
-        bottom: 25px;
-    }
+    
 }
 
 @media screen and (max-width: 320px){
-    #cover-text{
-        height: 100px;
-        bottom: 25px;
-    }
+    
 }
