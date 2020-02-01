@@ -26,8 +26,9 @@ header{
 .logo-img{
     height: 9vh;
     width: auto;
-    margin: 0.5vh auto;
-    display: block;    
+    margin: 0.5vh 0; 
+    margin-left: 10px;
+    overflow: hidden;
 }
 
 
