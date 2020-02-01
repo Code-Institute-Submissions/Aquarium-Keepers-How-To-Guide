@@ -71,7 +71,7 @@ nav div ul li{
     border-collapse: collapse;
 }
 
-nav div ul li .active{
+.active{
     background: #173058;
 }
 
@@ -79,9 +79,10 @@ nav div ul li .active{
 @media screen and (max-width:992px){
     .navbar{
         margin-top: 0;
+        margin-left: 15vw;
     }
 }
 /* Hover.css */
 .hvr-sweep-to-bottom:before{
-    background: #173058 !important;
+    background: #173058;
 }
