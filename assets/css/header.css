@@ -20,14 +20,23 @@
 
 /* Header content */
 header{
-    height: 10vh;
+    height: 25vw;
 }
 
 .logo-img{
-    height: 9vh;
+    height: 20vh;
     width: auto;
-    margin: 0.5vh 0; 
+    margin: 2.5vh 0; 
     margin-left: 10px;
+}
+
+.navbar-brand{
+    font-family: 'Shadows Into Light', cursive;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #fe9900;
+    line-height: 1;
 }
 
 
@@ -37,17 +46,6 @@ header{
     background-color: rgba(0, 0, 0, 0);
     font-size: 14px;
 }
-
-.navbar-brand{
-    font-family: 'Shadows Into Light', cursive;
-    display: block;
-    font-weight: bold;
-    text-align: center;
-    color: #fe9900;
-    padding: 0;
-    line-height: 1;
-}
-
 .navbar .navbar-toggler{
     background: #1c3a6a;
     border: 0;
