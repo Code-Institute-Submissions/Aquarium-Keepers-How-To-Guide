@@ -22,7 +22,7 @@ footer {
 }
 
 .socials{
-    margin: 0;
+    margin: 2.5vw 0;
     text-align: center;
     padding: inherit;
 }
@@ -32,19 +32,14 @@ footer {
 }
 
 .socials i {
-    font-size: 200%;
-    padding: 3%;
+    font-size: 5vw;
+    padding-right: 2vw;
     color: #fe9900;
 }
 
 /* Footer media queries */
     
 @media screen and (max-width:2560px){
-
-    .socials{
-        margin-top: 1.5%;
-    }
-
     .btn--cta{
         font-size: 24px;
         width: 250px;
@@ -53,22 +48,12 @@ footer {
     }
 }
 @media screen and (max-width: 1200px){
-
-    .socials{
-        margin-top: 3%;
-    }
-
     .btn--cta{
         margin-left: 75px;
     }
 }
 
 @media screen and (max-width: 992px){
-
-    .socials{
-        margin-top: 4%;
-    }
-
     .btn--cta{
         font-size: 24px;
         width: 200px;
@@ -76,11 +61,6 @@ footer {
 }
 
 @media screen and (max-width: 768px){
-    
-    .socials{
-        margin-top: 6%;
-    }
-
     .btn--cta{
         font-size: 20px;
         width: 150px;
@@ -89,15 +69,6 @@ footer {
 }
 
 @media screen and (max-width: 425px){
-
-    .socials{
-        margin-top: 3%;
-    }
-
-    .socials i {
-        font-size: 140%;
-    }
-
     .btn--cta{
         font-size: 12px;
         width: 100px;
@@ -107,11 +78,6 @@ footer {
 }
 
 @media screen and (max-width: 375px){
-
-    .socials{
-        margin-top: 4%;
-    }
-
     .btn--cta{
         margin-left: 5px;
         margin-top: 7px;
@@ -119,11 +85,6 @@ footer {
 }
 
 @media screen and (max-width: 320px){
-
-    .socials{
-        margin-top: 5%;
-    }
-
     .btn--cta{
         font-size: 8px;
         width: 80px;
