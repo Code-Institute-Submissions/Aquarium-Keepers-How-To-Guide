@@ -20,7 +20,7 @@
 
 /* Header content */
 header{
-    height: 20vh;
+    height: 15vh;
 }
 
 .navbar{
@@ -120,9 +120,6 @@ nav div ul li .active{
 }
 
 @media screen and (max-width: 768px){
-    header{
-        max-height: 104px;
-    }
     .navbar{
         margin-top: 0;     
     }
@@ -144,10 +141,6 @@ nav div ul li .active{
 }
 
 @media screen and (max-width: 425px){
-    header{
-        max-height: 96px;
-    }
-
     .navbar-brand{
         font-size: 28px;
         margin: 14% 0;
@@ -165,10 +158,6 @@ nav div ul li .active{
 }
 
 @media screen and (max-width: 375px){
-    header{
-        max-height: 85px;
-    }
-
     .navbar-brand{
         font-size: 26px;
         margin: 13% 0;
@@ -186,10 +175,6 @@ nav div ul li .active{
 }
 
 @media screen and (max-width: 320px){
-    header{
-        max-height: 72px;
-    }
-
     .navbar-brand{
         font-size: 24px;
         margin: 11.5% 0;
