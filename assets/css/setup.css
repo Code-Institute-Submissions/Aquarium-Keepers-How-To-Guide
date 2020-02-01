@@ -27,27 +27,27 @@ body {
 #tanksetup{
     width: 80vw;
     height: auto;
-    margin: 0 auto 10px;
+    margin: 0 auto 5vw;
     display: block;
 }
 
 #airstone{
     width: 80vw;
     height: auto;
-    margin: 0 auto 10px;
+    margin: 0 auto 5vw;
     display: block;
 }
 
 #thermometer{
     width: 80vw;
     height: auto;
-    margin: 0 auto 10px;
+    margin: 0 auto 5vw;
     display: block;
 }
 
 #powerhead{
     width: 80vw;
     height: auto;
-    margin: 0 auto 10px;
+    margin: 0 auto 5vw;
     display: block;
 }
