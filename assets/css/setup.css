@@ -7,19 +7,20 @@ body {
 
 .setup-title{
     text-align: center;
-    font-size: 70px;
-    margin: 10px 0;
+    font-size: 5vw;
+    margin: 1vw 0;
     text-decoration: underline;
 }
 
 .setup-text{
-    font-size: 30px;
+
+    font-size: 3vw;
 }
 
 .setup-subtitle{
     text-align: center;
-    font-size: 50px;
-    margin: 10px 0;
+    font-size: 4vw;
+    margin: 1vw 0;
     text-decoration: underline;
 }
 
@@ -54,24 +55,6 @@ body {
 /* Setup media queries */
 
 @media screen and (min-width: 1200px){
-    .setup-title{
-        text-align: center;
-        font-size: 100px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
-
-    .setup-text{
-        font-size: 50px;
-    }
-
-    .setup-subtitle{
-        text-align: center;
-        font-size: 75px;
-        margin: 10px 0;
-        text-decoration: underline;
-    }
-
     #tanksetup{
         width: 500px;
         height: auto;
@@ -94,11 +77,5 @@ body {
         width: 500px;
         height: auto;
         margin-bottom: 10px;
-    }
-}
-
-@media screen and (max-width: 425px){
-    .setup-text{
-        font-size: 1rem;
     }
 }
