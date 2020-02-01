@@ -12,14 +12,9 @@
     overflow: hidden;
 }
 
-/* Header colour */
-
-.bg-color-header{
-    background-color: #173058;
-}
-
 /* Header content */
 header{
+    background-color: #173058;
     height: 15vw;
 }
 
