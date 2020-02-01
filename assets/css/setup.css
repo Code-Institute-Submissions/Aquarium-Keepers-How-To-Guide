@@ -32,42 +32,22 @@ body {
 }
 
 #airstone{
-    width: 250px;
+    width: 80vw;
     height: auto;
     margin: 0 auto 10px;
     display: block;
 }
 
 #thermometer{
-    width: 250px;
+    width: 80vw;
     height: auto;
     margin: 0 auto 10px;
     display: block;
 }
 
 #powerhead{
-    width: 250px;
+    width: 80vw;
     height: auto;
     margin: 0 auto 10px;
     display: block;
-}
-
-/* Setup media queries */
-
-@media screen and (min-width: 1200px){
-    #tanksetup{
-        width: 500px;
-    }
-
-    #airstone{
-        width: 500px;
-    }
-
-    #thermometer{
-        width: 500px;
-    }
-
-    #powerhead{
-        width: 500px;
-    }
 }
