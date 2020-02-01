@@ -20,22 +20,22 @@
 
 /* Header content */
 header{
-    height: 10vh;
+    height: 15vh;
 }
+
+.logo-img{
+    height: 13vh;
+    width: auto;
+    margin: 1vh auto;
+    display: block;    
+}
+
 
 .navbar{
     border: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0);
     font-size: 14px;
-}
-
-.logo-img{
-    height: auto;
-    width: 80%;
-    margin: 2% 0;
-    margin-left: 10%;
-    
 }
 
 .navbar-brand{
