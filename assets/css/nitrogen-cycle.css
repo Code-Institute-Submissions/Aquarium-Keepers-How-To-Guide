@@ -3,20 +3,6 @@ body {
     background-color: #478eff;
 }
 
-/* Bootstrap override */
-
-.no-padding{
-    padding: 0 !important;
-}
-
-.no-margin{
-    margin: 0 !important;
-}
-
-.overflow-hide{
-    overflow: hidden;
-}
-
 /* Nitrogen Cycle content */
 
 .nitrogen-title{
