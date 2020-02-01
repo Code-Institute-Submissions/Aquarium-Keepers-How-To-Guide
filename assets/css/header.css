@@ -26,8 +26,7 @@ header{
 .logo-img{
     height: 13vw;
     width: auto;
-    margin: 1vw 0; 
-    margin-left: 1vw;
+    margin: 1vw; 
 }
 
 .navbar-brand{
