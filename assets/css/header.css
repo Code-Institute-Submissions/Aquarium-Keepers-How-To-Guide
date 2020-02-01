@@ -55,8 +55,6 @@ header{
     position: relative;
     z-index: 5000;
     text-align: center;
-    margin-right: 0;
-    margin-left: auto;
 }
 
 nav div ul li{
