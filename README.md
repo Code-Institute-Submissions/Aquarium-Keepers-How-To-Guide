@@ -219,7 +219,7 @@ Nitrogen cycle image obtained from (<a href="https://66.media.tumblr.com/9435fa3
 
 [Simen Daehlin](https://github.com/Eventyret) For his support and guidance with wireframe
 
-[Richard Wells](https://github.com/D0nni387) For his guidence during my project
+[Richard Wells](https://github.com/D0nni387) For his guidence during my project and also the writeup on deployment and how to run locally
 
 And thank you to everyone on slack who has provided answers to any questions I've had
 
