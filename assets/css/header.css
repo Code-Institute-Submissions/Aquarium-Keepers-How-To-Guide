@@ -47,7 +47,6 @@ header{
 }
 
 .navbar{
-    width: 200px;
     border: 0;
     background-color: #173058;
     font-size: 1.75vw;
@@ -69,6 +68,10 @@ nav div ul li{
 
 .active{
     background: #173058;
+}
+
+.nav-item { 
+    float: center;
 }
 
 /* Header media queries */
