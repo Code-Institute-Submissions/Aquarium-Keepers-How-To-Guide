@@ -169,7 +169,7 @@ Think it's to do with the bootstrap css
 
 ## Deployment
 
-To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/D0nni387/Luxury-Door-Solutions), the following steps were taken: 
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide), the following steps were taken: 
 
 1. From the menu items near the top of the page, select **Settings**.
 2. Scroll down to the **GitHub Pages** section.
@@ -188,7 +188,7 @@ To clone this project from GitHub:
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type ```git clone```, and then paste the URL you copied in Step 3.
 ```console
-git clone https://github.com/D0nni387/Luxury-Door-Solutions.git
+git clone https://github.com/hazza579/Aquarium-Keepers-How-To-Guide.git
 ```
 6. Press Enter. Your local clone will be created.
 
