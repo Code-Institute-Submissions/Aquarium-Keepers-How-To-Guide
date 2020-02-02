@@ -6,6 +6,7 @@ body {
 /* Nitrogen Cycle content */
 
 .nitrogen-title{
+    color: #fe9900;
     text-align: center;
     font-size: 5vw;
     margin: 1vw 0;
@@ -18,6 +19,7 @@ body {
 }
 
 .nitrogen-subtitle{
+    color: #fe9900;
     text-align: center;
     font-size: 4vw;
     margin: 1vw 0;
