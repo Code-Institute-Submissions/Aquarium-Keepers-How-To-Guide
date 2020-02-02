@@ -1,6 +1,15 @@
 body {
     font-family: 'Roboto', sans-serif;
+}
+
+/* Backgrounds */
+
+.background-1{
     background-color: #478eff;
+}
+
+.background-2{
+    background-color: #0062ff;
 }
 
 /* Nitrogen Cycle content */
