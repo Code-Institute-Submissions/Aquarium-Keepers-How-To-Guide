@@ -47,6 +47,7 @@ header{
 }
 
 .navbar{
+    width: 200px;
     border: 0;
     background-color: #173058;
     font-size: 1.75vw;
@@ -54,7 +55,7 @@ header{
 }
 
 .navbar-nav{
-    position: relative;
+    position: fixed;
     z-index: 5000;
     text-align: center;
 }
