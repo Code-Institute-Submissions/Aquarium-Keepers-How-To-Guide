@@ -6,10 +6,6 @@
 
 ---
 
-<div style="text-align:center;">
-<img src="#"></img>
-</div>
-
 ## Aim of the site
 
 My client has stated they are unhappy with the knowledge gap when it comes to new and unexperienced Aquarim keepers.
@@ -72,21 +68,6 @@ During the design process sitting with the client we drew up wireframes using [B
 
 ---
 
-## Technology Used
-
-* HTML & CSS programming languages
-* [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
-* [Google Fonts](https://fonts.google.com/) - ShadowsIntoLight & Roboto Styles
-* [Font Awesome](https://fontawesome.com/) - Social Media Logos
-* [jQuery](https://jquery.com/) - Javascript needed for navbar.
-* [Popper.js](https://popper.js.org/) - Javascript needed for navbar.
-* [Hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css) - Javascript for hover in navbar/
-* [GitPod](https://gitpod.io/) - IDE for local developement
-* [GIT](https://git-scm.com/) - Version Control
-* [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
-
----
-
 ## Features
 
 ### Home
@@ -128,6 +109,21 @@ Allow for the company to share tips and tricks for aquarium keeping and to help 
 
 ---
 
+## Technology Used
+
+* HTML & CSS programming languages
+* [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
+* [Google Fonts](https://fonts.google.com/) - ShadowsIntoLight & Roboto Styles
+* [Font Awesome](https://fontawesome.com/) - Social Media Logos
+* [jQuery](https://jquery.com/) - Javascript needed for navbar.
+* [Popper.js](https://popper.js.org/) - Javascript needed for navbar.
+* [Hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css) - Javascript for hover in navbar/
+* [GitPod](https://gitpod.io/) - IDE for local developement
+* [GIT](https://git-scm.com/) - Version Control
+* [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
+
+---
+
 ## Testing
 
 My initial testing was carried out using Chromes developer tools to ensure that the site scaled correctly on each screen size.
@@ -137,6 +133,66 @@ I also used the below tools to help ensure no issues as I completed each page of
 - [W3C Markup Validation](https://validator.w3.org/) to validate HTML.
 
 - [W3C CSS validation](https://jigsaw.w3.org/css-validator/) to validate CSS
+
+---
+
+### Issues and resolutions
+
+During build the following issues were raised
+
+- Couldn't make the header fully responsive
+
+During my build I couldn't make the header fully responsive due to differnet column widths at break points, this was resolved by removing a column that was hidden on smaller screens and making it even columns throughout, 
+allowing me to make it fully responsive.
+
+- Navbar dropdown menu displaying behind hero image
+
+This was resolved by adding a z index to bring the nabar dropdown to the front.
+
+- Contact us modal allowing a blank form to be submitted 
+
+Added required to the input tags to ensure information has to be inputted.
+
+- Links for other pages displaying error 404 page not found when deployed
+
+Used page address from github as href instead of relative file path
+
+### Known Issues
+
+Below are a list of problems that are known without resolution
+
+- Slight alignment issue with hero image or header
+
+Think it's to do with the bootstrap css
+
+---
+
+## Deployment
+
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/D0nni387/Luxury-Door-Solutions), the following steps were taken: 
+
+1. From the menu items near the top of the page, select **Settings**.
+2. Scroll down to the **GitHub Pages** section.
+3. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
+4. On selecting Master Branch the page is automatically refreshed, the website is now deployed. 
+5. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
+ 
+
+### How to run this project locally
+
+To clone this project from GitHub:
+
+1. Under the repository name, click "Clone or download".
+2. In the Clone with HTTPs section, copy the clone URL for the repository. 
+3. In your local IDE open Git Bash.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type ```git clone```, and then paste the URL you copied in Step 3.
+```console
+git clone https://github.com/D0nni387/Luxury-Door-Solutions.git
+```
+6. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
 ---
 
@@ -158,5 +214,15 @@ Thermometer image obtained from (<a href="https://www.fragglereef.co.uk/venmo-st
 Tank setup image obtained from (<a href="https://www.fishkeepingworld.com/55-gallon-fish-tank/">Fishkeepingworld.com</a>)
 
 Nitrogen cycle image obtained from (<a href="https://66.media.tumblr.com/9435fa395a5c20d70cebcee3bf5a6cc4/tumblr_inline_pavn29HpZg1sezw2m_250.png">Tumblr.com</a>)
+
+### Acknowledgements
+
+[Simen Daehlin](https://github.com/Eventyret) For his support and guidance with wireframe
+
+[Richard Wells](https://github.com/D0nni387) For his guidence during my project
+
+And thank you to everyone on slack who has provided answers to any questions I've had
+
+## Disclaimer
 
 While this is a website for a fictional company, the content text was all written based on facts and own knowledge.
