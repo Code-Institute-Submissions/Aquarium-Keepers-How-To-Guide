@@ -54,7 +54,7 @@ header{
 }
 
 .navbar-nav{
-    position: fixed;
+    position: relative;
     z-index: 5000;
     text-align: center;
 }
