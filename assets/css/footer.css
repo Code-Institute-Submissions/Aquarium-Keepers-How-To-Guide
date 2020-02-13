@@ -2,11 +2,22 @@
 
 footer {
     background-color: #173058;
-    height: 10vw;
 }
 
-.socials{
-    margin: 2.5vw 0;
+.footer-brand {
+    color: #fe9900;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.text-yellow {
+    color: #fe9900;
+}
+
+.footer-links {
+    font-size: 15px;
+}
+
+.socials {
     text-align: center;
     padding: inherit;
 }
@@ -16,21 +27,20 @@ footer {
 }
 
 .socials i {
-    font-size: 5vw;
-    padding-right: 2vw;
+    font-size: 25px;
+    padding-right: 10px;
     color: #fe9900;
 }
 
 /* Button */
 
 .btn--cta{
+    vertical-align: middle;
     line-height: 2;
-    font-size: 2.5vw;
+    font-size: 30px;
     font-weight: bold;
     border-radius: 23px;
-    width: 25vw;
-    margin-top: 2.5vw;
-    margin-left: 6vw;
+    width: 200px;
 }
 
 .btn--yellow{
