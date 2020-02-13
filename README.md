@@ -157,18 +157,13 @@ Added required to the input tags to ensure information has to be inputted.
 
 Used page address from github as href instead of relative file path
 
-### Known Issues
+- Alignment issue
 
-Below are a list of problems that are known without resolution
-
-- Slight alignment issue with hero image or header
-
-Think it's to do with the bootstrap css
+Sorted by removing the margin bootstrap adds to its rows
 
 ---
 
 ## Deployment
-
 To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/hazza579/Aquarium-Keepers-How-To-Guide), the following steps were taken: 
 
 1. From the menu items near the top of the page, select **Settings**.
@@ -199,27 +194,29 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 ## Credits
 
 ### Content
-Icon image (simple PNG Designed By alluranet from <a href="https://pngtree.com/">Pngtree.com</a>)
+[Icon image](https://pngtree.com/)
 
 Logo image provided by the client.
 
-Hero image obtained from (<a href="https://www.practicalfishkeeping.co.uk/features/how-to-set-up-a-temperate-tank-that-looks-tropical/">PracticalFishkeeping.com</a>)
+[Hero image](https://www.practicalfishkeeping.co.uk/features/how-to-set-up-a-temperate-tank-that-looks-tropical/)
 
-Powerhead image obtained from (<a href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUl9DL_annAhWPxYUKHTXiD4IQjhx6BAgBEAI&url=https%3A%2F%2Fwww.amazon.co.uk%2FJVP-101-Wavemaker-Powerhead-Aquarium-Circulation%2Fdp%2FB008E8K4G0&psig=AOvVaw36lH83IZ8SWdaaobvTm87U&ust=1580427043861551">Amazon.com</a>)
+[Powerhead image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUl9DL_annAhWPxYUKHTXiD4IQjhx6BAgBEAI&url=https%3A%2F%2Fwww.amazon.co.uk%2FJVP-101-Wavemaker-Powerhead-Aquarium-Circulation%2Fdp%2FB008E8K4G0&psig=AOvVaw36lH83IZ8SWdaaobvTm87U&ust=1580427043861551)
 
-Airstone image obtained from (<a href="http://www.tropicalfishsite.com/how-to-set-up-bubbles-in-a-tropical-fish-tank-aquarium/">Tropicalfishsite.com</a>)
+[Airstone image](http://www.tropicalfishsite.com/how-to-set-up-bubbles-in-a-tropical-fish-tank-aquarium/)
 
-Thermometer image obtained from (<a href="https://www.fragglereef.co.uk/venmo-straightforward-learn-aquarium-thermometer-stick-on-fish-tank-pool-water-temperatue-thermometer-correct/">fragglereef.co.uk</a>)
+[Thermometer image](https://www.fragglereef.co.uk/venmo-straightforward-learn-aquarium-thermometer-stick-on-fish-tank-pool-water-temperatue-thermometer-correct/)
 
-Tank setup image obtained from (<a href="https://www.fishkeepingworld.com/55-gallon-fish-tank/">Fishkeepingworld.com</a>)
+[Tank setup](https://www.fishkeepingworld.com/55-gallon-fish-tank/)
 
-Nitrogen cycle image obtained from (<a href="https://66.media.tumblr.com/9435fa395a5c20d70cebcee3bf5a6cc4/tumblr_inline_pavn29HpZg1sezw2m_250.png">Tumblr.com</a>)
+[Nitrogen cycle image](https://66.media.tumblr.com/9435fa395a5c20d70cebcee3bf5a6cc4/tumblr_inline_pavn29HpZg1sezw2m_250.png)
 
 ### Acknowledgements
 
-[Simen Daehlin](https://github.com/Eventyret) For his support and guidance with wireframe
+[Simen Daehlin](https://github.com/Eventyret) For his support and guidance with wireframes and peer review
 
 [Richard Wells](https://github.com/D0nni387) For his guidence during my project and also the writeup on deployment and how to run locally
+
+Jake Matthews For his support with the overflow bug i had and just guidance in general
 
 And thank you to everyone on slack who has provided answers to any questions I've had
 
