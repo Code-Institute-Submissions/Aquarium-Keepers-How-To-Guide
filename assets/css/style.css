@@ -82,3 +82,34 @@ body {
     text-align: center;
     font-size: 3vw;
 }
+
+
+@media only screen and (max-width: 425px) {
+    .about {
+        font-size: 21.25px;
+    }
+    .about-us {
+        font-size: 12.75px;
+    }
+    .intro-title {
+        font-size: 21.25px;
+    }
+    .intro-text {
+        font-size: 12.75px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .about {
+        font-size: 51.2px;
+    }
+    .about-us {
+        font-size: 30.72px;
+    }
+    .intro-title {
+        font-size: 51.2px;
+    }
+    .intro-text {
+        font-size: 30.72px;
+    }
+}
