@@ -13,45 +13,41 @@
 }
 
 /* Header content */
-header{
-    background-color: #173058;
-    height: 15vw;
-}
 
 .logo-img{
     height: 13vw;
     width: auto;
-    margin: 1vw; 
+    margin: 1vw 2vw; 
+    float: left;
 }
 
-.navbar-brand{
+.logo-text {
+    vertical-align: middle;
+}
+
+.navbar-dark .navbar-brand{
     font-family: 'Shadows Into Light', cursive;
-    font-size: 6vw;
-    display: block;
     font-weight: bold;
     text-align: center;
     color: #fe9900;
-    line-height: 1;
-    margin: 1.5vw 0;
+    font-size: 6vw;
+    line-height: 1.1;
 }
 
 .navbar .navbar-toggler{
     background: #1c3a6a;
     border: 0;
-    margin-top: 3.5vw;
+    margin-right: 12.75px;
 }
 
 .navbar-toggler-icon{
-    height: 7vw;
-    width: 7vw;
+    height: 29.75px;
+    width: 29.75px;
 }
 
 .navbar{
-    width: 200px;
-    border: 0;
     background-color: #173058;
-    font-size: 1.75vw;
-    margin-top: 4vw;
+    font-size: 2vw;
 }
 
 .navbar-nav{
@@ -76,10 +72,26 @@ nav div ul li{
 }
 
 /* Header media queries */
-@media screen and (max-width:992px){
+@media only screen and (max-width: 425px) {
+    .logo-img {
+    height: 55.25px;
+    }
+    .navbar-dark .navbar-brand {
+        font-size: 25.5px;
+    }
     .navbar{
-        margin-top: 0;
-        margin-left: 15vw;
+    font-size: 8.5px;
+}
+}
+@media only screen and (min-width: 1024px) {
+    .logo-img {
+        height: 133.11px;
+    }
+    .navbar-dark .navbar-brand {
+        font-size: 61.44px;
+    }
+    .navbar{
+        font-size: 20.48px;
     }
 }
 /* Hover.css */
